@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

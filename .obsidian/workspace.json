@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a1c5db0a184655bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2848f1fef69cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa94911479cc228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-inbox/2026-04-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1adff03999cf60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bb7e798fe50fd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92916139da0bc0eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9f196f9c3a7ee4b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a27808bc72490c5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df8f236266f5a72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0739f157f5c6357f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1b360f126e6f83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-inbox/榨干AI思维路径.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "榨干AI思维路径 的反向链接列表"
+            }
+          },
+          {
+            "id": "0cd2872970e5ffe0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "45c9b0c5b625dc89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a97f48af97491d15",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9829f0573aebfd8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "2e496b6a2a0033a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4fa94911479cc228",
+  "lastOpenFiles": [
+    "00-inbox/2026-04-29.md",
+    "00-inbox/2026-04-30.md",
+    "00-inbox/2026-04-28.md",
+    "00-inbox/未命名.md",
+    "00-inbox/榨干AI方法论.md",
+    "00-inbox/煤炭学习计划.md",
+    "00-inbox/煤炭学习计划 第一天的题库.md",
+    "00-inbox/榨干AI思维路径.md",
+    "326129d296bfecf2244e8231fc296103.png",
+    "00-inbox/总览.md",
+    "00-inbox/你不是在学习，你是在用学习逃避改变(榨干AI方法论出品).md",
+    "02-Projects/AI深度思考工具.md",
+    "未命名.md",
+    "00-inbox/PARA方法论(数字内容).md",
+    "06-Meta/未命名.md",
+    "templates/日记模板.md",
+    "templates/笔记模板.md",
+    "搭建计划.md",
+    "templates/项目模板.md",
+    "templates",
+    "Attachments",
+    "新建文件夹",
+    "06-Meta",
+    "05-Archive",
+    "04-Resources",
+    "03-Areas",
+    "02-Projects",
+    "01-Daily",
+    "00-inbox",
+    "Xiaomi MiMo Studio_files/logoDark.7bbe3994.webp",
+    "Xiaomi MiMo Studio_files/new-model-announcement.3050e7e5.png",
+    "Xiaomi MiMo Studio_files/logo.d8da8623.webp"
+  ]
+}
